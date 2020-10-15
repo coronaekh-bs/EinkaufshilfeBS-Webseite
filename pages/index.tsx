@@ -40,7 +40,7 @@ const Home: React.FC = () => (
     <Row>
       <Cell>
         <Body>
-          Die Corona-Pandemie schränkt den Alltag in Deutschland ein. Vor allem für gefährdete
+          Die jCorona-Pandemie schränkt den Alltag in Deutschland ein. Vor allem für gefährdete
           Gruppen, wie ältere Menschen oder Personen mit Vorerkrankungen sind alltägliche Aufgaben
           mit einem Ansteckungsrisiko verbunden. Wir wollen helfen!
         </Body>
