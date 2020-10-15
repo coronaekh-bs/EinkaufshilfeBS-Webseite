@@ -91,7 +91,7 @@ const Home: React.FC = () => (
     <Row vertical indent="large">
       <Secondary>Werde Helfer*in</Secondary>
       <Body as="p">
-        Bist du Student*in der TU und möchtest Einkaufshelfer*in werden? Nichts lieber als das!
+        Bist du Studentin der TU und möchtest Einkaufshelfer*in werden? Nichts lieber als das!
         Kommt mit auf unsere TU Sandkasten Seite und werde Teil des Teams:
         <br />
         <a href="mailto:Einkaufshilfe@TU-Sandkasten">Einkaufshilfe @TU Sandkasten</a>.
